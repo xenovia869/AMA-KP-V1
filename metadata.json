@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Attendance - Local Time In & Out System",
+  "description": "Dynamic local attendance tracking kiosk with SQLite database, instant Time In/Out logging, and Excel report export by student ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
